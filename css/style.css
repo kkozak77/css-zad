@@ -1,60 +1,9 @@
-body {
-    background-color: white;
+h1 {
+    background-color:gold;
 }
 
-
-.first{
-    background-color: blue;
-    width: 100px;
-    height: 100px;
+h3 {
+    background-color:pink;
 }
 
-.second{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-
-.third{
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-}
-
-.fourth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-
-.fifth{
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-}
-.sixth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-.seventh{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-.eighth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-.ninth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
-.tenth{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-}
 
