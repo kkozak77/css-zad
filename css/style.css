@@ -1,40 +1,4 @@
 body {
-    background-color: #f5f5dd;
+    background-color: black;
 }
 
-.square1 {
-    background-color: rgba(0,0,0,100);
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:10px;
-    width: 150px;
-    height: 150px;
-}
-
-.square2 {
-    background-color: rgba(0,0,0,0.75);
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:10px;
-    width: 150px;
-    height: 150px;
-}
-
-.square3 {
-    
-    background-color: rgba(0,0,0,0.50);
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:10px;
-    width: 150px;
-    height: 150px;
-}
-
-.square4 {
-    background-color: rgba(0,0,0,0.25);
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom:10px;
-    width: 150px;
-    height: 150px;
-}
