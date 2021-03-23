@@ -1,4 +1,60 @@
 body {
-    background-color: black;
+    background-color: white;
+}
+
+
+.first{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.second{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.third{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.fourth{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.fifth{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.sixth{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.seventh{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.eighth{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.ninth{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.tenth{
+    background-color: red;
+    width: 100px;
+    height: 100px;
 }
 
